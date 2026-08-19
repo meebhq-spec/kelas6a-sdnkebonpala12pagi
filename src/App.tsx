@@ -199,7 +199,7 @@ const Hero = ({ schoolName, heroImage, registrationLink }: { schoolName: string,
         className="max-w-4xl mx-auto"
       >
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-          Mewujudkan Generasi <span className="text-blue-400">Cerdas</span> & <span className="text-blue-400">Berkarakter</span>
+         
         </h1>
         <p className="text-lg md:text-xl text-gray-200 mb-10 max-w-2xl mx-auto">
           Selamat Datang di Website Resmi {schoolName}. Tempat terbaik untuk menumbuhkan potensi anak sejak dini dengan kurikulum merdeka.
