@@ -79,7 +79,7 @@ const Navbar = ({ onLoginClick, isLoggedIn, onLogout, scrollToSection, onViewDas
     { name: 'Beranda', id: 'home' },
     { name: 'Visi Misi', id: 'visimisi' },
     { name: 'Statistik', id: 'stats' },
-    { name: 'Tenaga Pendidik', id: 'teachers' },
+    { name: 'Guru dan Murid', id: 'teachers' },
     { name: 'Berita', id: 'news' },
   ];
 
