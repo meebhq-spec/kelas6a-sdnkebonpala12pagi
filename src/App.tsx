@@ -216,7 +216,7 @@ const Hero = ({ schoolName, heroImage, registrationLink }: { schoolName: string,
             target="_blank"
             rel="noopener noreferrer"
             className="bg-transparent text-white border-2 border-white hover:bg-white hover:text-blue-900 px-8 py-3.5 rounded-full text-lg font-semibold transition-all inline-block"
-          >
+          
             
           
         
@@ -551,7 +551,8 @@ const Footer = ({
             <span className="text-blue-500">{schoolName}</span>
           </h3>
           <p className="mb-6 text-gray-400">
-            Membangun generasi emas yang berakhlak mulia, cerdas, dan siap menghadapi tantangan masa depan.
+            SDN Kebon Pala 12 Pagi
+            Cerdas Berprestasi
           </p>
           <div className="flex space-x-4">
             {socialFacebook && socialFacebook !== '#' && <a href={socialFacebook} target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition"><Facebook size={20} /></a>}
