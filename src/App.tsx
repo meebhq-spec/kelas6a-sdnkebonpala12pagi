@@ -552,7 +552,6 @@ const Footer = ({
           </h3>
           <p className="mb-6 text-gray-400">
             SDN Kebon Pala 12 Pagi
-            Cerdas Berprestasi
           </p>
           <div className="flex space-x-4">
             {socialFacebook && socialFacebook !== '#' && <a href={socialFacebook} target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition"><Facebook size={20} /></a>}
