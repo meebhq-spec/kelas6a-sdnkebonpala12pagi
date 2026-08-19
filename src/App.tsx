@@ -218,12 +218,12 @@ const Hero = ({ schoolName, heroImage, registrationLink }: { schoolName: string,
             className="bg-transparent text-white border-2 border-white hover:bg-white hover:text-blue-900 px-8 py-3.5 rounded-full text-lg font-semibold transition-all inline-block"
           >
             
-          </a>
-        </div>
-      </motion.div>
-    </div>
-  </section>
-);
+          
+        
+      
+    
+  
+
 
 const VisiMisi = ({ visi, misi }: { visi: string, misi: string[] }) => (
   <section id="visimisi" className="py-20 bg-white">
