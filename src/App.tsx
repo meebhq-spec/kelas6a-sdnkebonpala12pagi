@@ -217,7 +217,7 @@ const Hero = ({ schoolName, heroImage, registrationLink }: { schoolName: string,
             rel="noopener noreferrer"
             className="bg-transparent text-white border-2 border-white hover:bg-white hover:text-blue-900 px-8 py-3.5 rounded-full text-lg font-semibold transition-all inline-block"
           >
-            Daftar Sekarang
+            
           </a>
         </div>
       </motion.div>
