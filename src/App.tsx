@@ -202,7 +202,7 @@ const Hero = ({ schoolName, heroImage, registrationLink }: { schoolName: string,
          
         </h1>
         <p className="text-lg md:text-xl text-gray-200 mb-10 max-w-2xl mx-auto">
-          Selamat Datang di Website Resmi {schoolName}. Tempat terbaik untuk menumbuhkan potensi anak sejak dini dengan kurikulum merdeka.
+          Selamat Datang di Website Resmi {schoolName}.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <button 
